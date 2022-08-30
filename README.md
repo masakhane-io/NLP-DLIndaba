@@ -1,4 +1,4 @@
-# NLP-DLIndaba
+# NLP @ Deep Learning Indaba
 
 This repository contains the notebooks for the Hands-On practical session with [Idris Abdulmumin](https://github.com/abumafrim) at the MasaKhane NLP workshop during the Deep Learning Indaba. The notebooks are based on HuggingFace implementation (License: Apache 2.0) for fine-tuning pre-trained language models.
 
